@@ -9,13 +9,14 @@
     do {\
     char dst[256];\
     snprintf(dst, 256, "%ld", (long int)(src));\
-}while(0)
+}while(0)kdlfa;sdj;kfkladslfs
 
 // Add a new pet to the store
 //
 void
 PetAPI_addPet(apiClient_t *apiClient ,pet_t * body)
 {
+    kldsajf;alksdjf;lasdf
     list_t    *localVarQueryParameters = NULL;
     list_t    *localVarHeaderParameters = NULL;
     list_t    *localVarFormParameters = NULL;
